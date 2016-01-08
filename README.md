@@ -12,3 +12,5 @@ for file in ~/.bash_inc/{path,bash_prompt,exports,aliases,functions,extra}; do
 done;
 unset file;
 ```
+## Screenshots
+![image](https://github.com/caviler/raw/master/screenshots.png)
