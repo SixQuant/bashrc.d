@@ -1,6 +1,6 @@
 # .bash_inc
 
-see ***[](https://github.com/altercation/solarized)***
+see **[https://github.com/altercation/solarized](https://github.com/altercation/solarized)**
 
 ## Setup
 Just download .bash_inc to ~/
