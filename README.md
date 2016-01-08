@@ -13,4 +13,4 @@ done;
 unset file;
 ```
 ## Screenshots
-![image](https://github.com/caviler/raw/master/screenshots.png)
+![image](https://raw.githubusercontent.com/caviler/.bash_inc/master/screenshots.png)
