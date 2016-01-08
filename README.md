@@ -1,5 +1,6 @@
 # .bash_inc
 
+
 ## Setup
 Just download .bash_inc to ~/
 and append below code to ~/.bash_profile
