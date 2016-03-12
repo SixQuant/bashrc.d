@@ -1,1 +1,19 @@
+# for node.js
+export NODE_HOME=/opt/node
+export PATH=$PATH:$NODE_HOME/bin
+export NODE_PATH=$PATH:$NODE_HOME/lib/node_modules
+alias npm="npm --registry=https://registry.npm.taobao.org"
 
+# for docker
+export DOCKER_DATA=/var/data
+
+export JAVA_HOME=/usr/java/latest/
+export PATH=${JAVA_HOME}/bin:${PATH}
+
+export DOCKER_DATA_HOME=/home/data
+
+export M3_HOME=/usr/share/maven
+export PATH=${M3_HOME}/bin:${PATH}
+
+export JSTORM_HOME=/opt/jstorm
+export PATH=$JSTORM_HOME/bin:$PATH
